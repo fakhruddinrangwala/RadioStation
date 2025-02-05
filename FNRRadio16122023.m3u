@@ -1,22 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="17" tvg-name="AIR FM GOLD Delhi" tvg-logo="" group-title="Indian Radio",AIR FM GOLD Delhi
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
-
-#EXTINF:-1 tvg-id="138" tvg-name="AIR FM Gold Mumbai" tvg-logo="" group-title="Indian Radio",AIR FM Gold Mumbai
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8
-
-#EXTINF:-1 tvg-id="80" tvg-name="AIR Rainbow Delhi" tvg-logo="" group-title="Indian Radio",AIR Rainbow Delhi
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8
-
-#EXTINF:-1 tvg-id="136" tvg-name="AIR Rainbow Mumbai" tvg-logo="" group-title="Indian Radio",AIR Rainbow Mumbai
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8
-
 #EXTINF:-1 tvg-id="7" tvg-name="AIR Vividh Bharti" tvg-logo="" group-title="Indian Radio",AIR Vividh Bharti
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="85" tvg-name="Air Rainbow 100.7 FM in Lucknow" tvg-logo="" group-title="Indian Radio",Air Rainbow 100.7 FM in Lucknow
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="AlJazeera English Audio" tvg-logo="" group-title="International Radio",AlJazeera English Audio
 https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/01.m3u8
