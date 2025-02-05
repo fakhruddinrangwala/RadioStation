@@ -1,0 +1,23 @@
+#EXTM3U
+
+#COUNTRY: United States
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-language="English" tvg-country="US" tvg-genre="News" group-title="News", CNN
+http://example.com/cnn/stream.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-genre="Sports" group-title="Sports", ESPN
+http://example.com/espn/stream.m3u8
+
+#COUNTRY: France
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-language="French" tvg-country="FR" tvg-genre="News" group-title="News", France 24
+http://example.com/france24/stream.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-language="French" tvg-country="FR" tvg-genre="Entertainment" group-title="Entertainment", TF1
+http://example.com/tf1/stream.m3u8
+
+#COUNTRY: India
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-language="Hindi" tvg-country="IN" tvg-genre="News" group-title="News", NDTV
+http://example.com/ndtv/stream.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-language="Hindi" tvg-country="IN" tvg-genre="Entertainment" group-title="Entertainment", Star Plus
+http://example.com/starplus/stream.m3u8
+
+#COUNTRY: Multi-Country
+#EXTINF:-1 tvg-id="BBCWorld.uk" tvg-name="BBC World" tvg-language="English" tvg-country="INT" tvg-genre="News" group-title="News", BBC World
+http://example.com/bbcworld/stream.m3u8
