@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="AIR Vividh Bharti" tvg-logo="https://th.bing.com/th/id/OIP.PIcwdYG_9HgTIha6ai6DfwHaDt?rs=1&pid=ImgDetMain" 
+#EXTINF:-1 tvg-id="7" tvg-name="AIR Vividh Bharti" tvg-logo="https://th.bing.com/th/id/OIP.PIcwdYG_9HgTIha6ai6DfwHaDt?rs=1&pid=ImgDetMain" group-title="Indian Radio",AIR Vividh Bharti
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="BBC Asian" tvg-logo="" group-title="International Radio",BBC Asian
