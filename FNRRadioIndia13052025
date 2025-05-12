@@ -1,20 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=AIRDelhi tvg-logo=Logo tvg-name=AIRDelhi tvg-language=Hindi tvg-country=India group-title=air, AIRDelhi
+#EXTINF:-1  tvg-name=AIRDelhi , AIRDelhi
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
-#EXTINF:-1 tvg-id=FMGOLDDelhi tvg-logo=https://liveradios.in/wp-content/uploads/fmgold.jpg tvg-name=FMGOLDDelhi tvg-language=Hindi tvg-country=India group-title=air, FMGOLDDelhi
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00532kbps.m3u8
-#EXTINF:-1 tvg-id=AIRIndore tvg-logo=Logo tvg-name=AIRIndore tvg-language=Hindi tvg-country=India group-title=air, AIRIndore
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
-#EXTINF:-1 tvg-id=RainbowDelhi tvg-logo=Logo tvg-name=RainbowDelhi tvg-language=Hindi tvg-country=India group-title=air, RainbowDelhi
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
-#EXTINF:-1 tvg-id=VividhBharti tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VividhBharti tvg-language=Hindi tvg-country=India group-title=air, VividhBharti
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
-#EXTINF:-1 tvg-id=VBS1 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS1 tvg-language=Hindi tvg-country=India group-title=air, VBS1
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
-#EXTINF:-1 tvg-id=VBS2 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS2 tvg-language=Hindi tvg-country=India group-title=air, VBS2
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio01164kbps59858568.aac
-#EXTINF:-1 tvg-id=VBS3 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS3 tvg-language=Hindi tvg-country=India group-title=air, VBS3
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio23864kbps19374_53320.aac
-#EXTINF:-1 tvg-id=VBS4 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS4 tvg-language=Hindi tvg-country=India group-title=air, VBS4
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
