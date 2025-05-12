@@ -1,142 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="7" tvg-name="AIR Vividh Bharti" tvg-logo="https://th.bing.com/th/id/OIP.PIcwdYG_9HgTIha6ai6DfwHaDt?rs=1&pid=ImgDetMain" group-title="Indian Radio",AIR Vividh Bharti
+#EXTINF:-1 tvg-id=AIRDelhi tvg-logo=Logo tvg-name=AIRDelhi tvg-language=Hindi tvg-country=India group-title=air, AIRDelhi
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="92" tvg-name="AlJazeera English Audio" tvg-logo="" group-title="International Radio",AlJazeera English Audio
-https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/01.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="Awaaz FM UK" tvg-logo="" group-title="International Radio",Awaaz FM UK
-https://uksoutha.streaming.broadcast.radio/awazfm
-
-#EXTINF:-1 tvg-id="100" tvg-name="BBC Asian" tvg-logo="" group-title="International Radio",BBC Asian
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-id="135" tvg-name="BBC HD" tvg-logo="" group-title="International Radio",BBC HD
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-name="Big FM 106.2 Dubai" tvg-logo="https://i.ytimg.com/vi/oDaazxoYNqA/hqdefault.jpg" group-title="Indian Radio",Big FM 106.2 Dubai
-https://funasia.streamguys1.com/live4
-
-#EXTINF:-1 tvg-id="101" tvg-name="Big FM Melodies" tvg-logo="" group-title="Indian Radio",Big FM Melodies
-https://funasia.streamguys1.com/live9
-
-#EXTINF:-1 tvg-id="93" tvg-name="Bollywood Gaane Purane" tvg-logo="" group-title="Indian Radio",Bollywood Gaane Purane
-https://stream.zeno.fm/6n6ewddtad0uv
-
-#EXTINF:-1 tvg-id="36" tvg-name="City 91.1" tvg-logo="" group-title="Indian Radio",City 91.1
-https://prclive1.listenon.in
-
-#EXTINF:-1 tvg-id="27" tvg-name="City101.6 Dubai" tvg-logo="" group-title="Indian Radio",City101.6 Dubai
-http://stream.radiojar.com/gmwyu8xdrxquv
-
-#EXTINF:-1 tvg-id="29" tvg-name="Dubai 92" tvg-logo="" group-title="International Radio",Dubai 92
-https://stream.radiojar.com/6ty5rrkerxquv
-
-#EXTINF:-1 tvg-id="28" tvg-name="Dubai Eye 103.8" tvg-logo="" group-title="International Radio",Dubai Eye 103.8
-https://stream.radiojar.com/shcthrfbsxquv
-
-#EXTINF:-1 tvg-id="102" tvg-name="EBCRadio LA" tvg-logo="" group-title="International Radio",EBCRadio LA
-https://ice7.securenetsystems.net/WWTR?
-
-#EXTINF:-1 tvg-id="99" tvg-name="FM Trinidad" tvg-logo="" group-title="International Radio",FM Trinidad
-https://ice42.securenetsystems.net/CR90?type=.mp3
-
-#EXTINF:-1 tvg-id="118" tvg-name="FM107 Dil se Desi Doha" tvg-logo="" group-title="International Radio",FM107 Dil se Desi Doha
-https://640b79a5c9ef3.streamlock.net/URDU/myStream/chunklist_w241647036.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-name="GaanePurane" tvg-logo="" group-title="Indian Radio",GaanePurane
-https://stream-143.zeno.fm/6n6ewddtad0uv?zs=9OeAfpKrS-G2TC2IA2SBKA
-
-#EXTINF:-1 tvg-id="94" tvg-name="Goldy Evergreen" tvg-logo="" group-title="Indian Radio",Goldy Evergreen
-https://stream.zeno.fm/n2fd0edh9k8uv
-
-#EXTINF:-1 tvg-id="95" tvg-name="Goldy Mukesh" tvg-logo="" group-title="Indian Radio",Goldy Mukesh
-https://stream.zeno.fm/t39watus1p8uv
-
-#EXTINF:-1 tvg-id="86" tvg-name="Hello FM 106.4" tvg-logo="" group-title="Indian Radio",Hello FM 106.4
-https://stream.zenolive.com/4g65yz9gg0quv.aac
-
-#EXTINF:-1 tvg-id="70" tvg-name="Hits of Bollywood" tvg-logo="" group-title="Indian Radio",Hits of Bollywood
-http://procyon.shoutca.st:8255/
-
-#EXTINF:-1 tvg-id="34" tvg-name="Ishq 104.8 FM" tvg-logo="" group-title="Indian Radio",Ishq 104.8 FM
-https://prclive4.listenon.in/Ishq
-
-#EXTINF:-1 tvg-id="104" tvg-name="Ishq Delhi" tvg-logo="" group-title="Indian Radio",Ishq Delhi
-https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/index_1_a-p.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-name="Ishq Kolkata" tvg-logo="" group-title="Indian Radio",Ishq Kolkata
-https://drive.uber.radio/uber/bollywoodlove/icecast.audio
-
-#EXTINF:-1 tvg-id="81" tvg-name="Jaipur Radio" tvg-logo="" group-title="Indian Radio",Jaipur Radio
-https://streamasiacdn.atc-labs.com/jaipurradio.aac
-
-#EXTINF:-1 tvg-id="77" tvg-name="Jazbaa FM Durham USA" tvg-logo="" group-title="International Radio",Jazbaa FM Durham USA
-https://streams.radio.co/s8d06d0298/listen
-
-#EXTINF:-1 tvg-id="33" tvg-name="Kadak FM Dubai" tvg-logo="" group-title="Indian Radio",Kadak FM Dubai
-https://admdn7.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/playlist.m3u8
-
-#EXTINF:-1 tvg-id="91" tvg-name="LBC News London" tvg-logo="" group-title="International Radio",LBC News London
-https://media-ssl.musicradio.com/LBCNewsUK
-
-#EXTINF:-1 tvg-id="106" tvg-name="LotusFM SA" tvg-logo="" group-title="International Radio",LotusFM SA
-https://25443.live.streamtheworld.com/LOTUSFM_SC
-
-#EXTINF:-1 tvg-id="71" tvg-name="MBC TAAL FM" tvg-logo="" group-title="International Radio",MBC TAAL FM
-https://radio.mbconline.xyz/hls/tallfm.m3u8
-
-#EXTINF:-1 tvg-id="25" tvg-name="MIRCHI FM" tvg-logo="" group-title="Indian Radio",MIRCHI FM
-https://stream-152.zeno.fm/5b1u5dbczy8uv?zs=ewC8_n3PTuKqXYKnj9yOdg
-
-#EXTINF:-1 tvg-id="72" tvg-name="Mehefil Radio UK" tvg-logo="" group-title="International Radio",Mehefil Radio UK
-http://mehefil.no-ip.com/mehefil
-
-#EXTINF:-1 tvg-id="11" tvg-name="Mirchi FIJI" tvg-logo="" group-title="International Radio",Mirchi FIJI
-http://peridot.streamguys.com:7150/Mirchi
-
-#EXTINF:-1 tvg-id="121" tvg-name="Mirchi One 89.6 Doha" tvg-logo="" group-title="International Radio",Mirchi One 89.6 Doha
-https://s5.radio.co/sc0e5eb33d/listen
-
-#EXTINF:-1 tvg-id="78" tvg-name="Mirchi ST louis USA" tvg-logo="" group-title="International Radio",Mirchi ST louis USA
-https://s3.radio.co/se787a5a6f/listen
-
-#EXTINF:-1 tvg-id="122" tvg-name="Mirchi USA" tvg-logo="" group-title="International Radio",Mirchi USA
-https://streams.radio.co/s8d06d0298/listen
-
-#EXTINF:-1 tvg-id="30" tvg-name="Mirchi uae" tvg-logo="" group-title="International Radio",Mirchi uae
-https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1
-
-#EXTINF:-1 tvg-id="119" tvg-name="Olive 106.3 Doha" tvg-logo="" group-title="International Radio",Olive 106.3 Doha
-https://25653.live.streamtheworld.com/OLIVE1063.mp3
-
-#EXTINF:-1 tvg-id="10" tvg-name="Olive Retro Doha" tvg-logo="" group-title="International Radio",Olive Retro Doha
-https://18313.live.streamtheworld.com/RADIO_OLIVE_RETRO_S03_SC
-
-#EXTINF:-1 tvg-id="96" tvg-name="Oye India" tvg-logo="" group-title="Indian Radio",Oye India
-https://stream.zeno.fm/cgrwb1hd4v8uv
-
-#EXTINF:-1 tvg-id="83" tvg-name="RETRO HINDI" tvg-logo="" group-title="Indian Radio",RETRO HINDI
-https://stream-148.zeno.fm/g372rxef798uv?zs=eoNbAfnLRn2wQxOvubwj9A
-
-#EXTINF:-1 tvg-id="31" tvg-name="Radio 4 FM Dubai" tvg-logo="" group-title="International Radio",Radio 4 FM Dubai
-https://stream.radio.co/s6004eac2f/listen
-
-#EXTINF:-1 tvg-id="88" tvg-name="Radio Aashiqanaa" tvg-logo="" group-title="Indian Radio",Radio Aashiqanaa
-https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657
-
-#EXTINF:-1 tvg-id="109" tvg-name="Radio Asian Network" tvg-logo="" group-title="International Radio",Radio Asian Network
-http://lstn.lv/bbc.m3u8?station=bbc_asian_network&amp;bitrate=96000
-
-#EXTINF:-1 tvg-id="22" tvg-name="Radio City Ghazal" tvg-logo="" group-title="Indian Radio",Radio City Ghazal
-https://stream-143.zeno.fm/kabhpq3uyc9uv?zs=99Yo6BsWTkGn0M53AYp8yw
-
-#EXTINF:-1 tvg-id="97" tvg-name="Radio Jagriti 90.4 FM" tvg-logo="" group-title="Indian Radio",Radio Jagriti 90.4 FM
-https://stream.zeno.fm/kgdue4hmffhvv
-
-#EXTINF:-1 tvg-id="98" tvg-name="Radio Meri Aawaz" tvg-logo="" group-title="Indian Radio",Radio Meri Aawaz
-https://puma.streemlion.com:2245/stream
-
-#EXTINF:-1 tvg-id="35" tvg-name="Radio Namkin" tvg-logo="" group-title="Indian Radio",Radio Namkin
-https://stream.zeno.fm/84h7fsbaqv5tv
+#EXTINF:-1 tvg-id=FMGOLDDelhi tvg-logo=https://liveradios.in/wp-content/uploads/fmgold.jpg tvg-name=FMGOLDDelhi tvg-language=Hindi tvg-country=India group-title=air, FMGOLDDelhi
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00532kbps.m3u8
+#EXTINF:-1 tvg-id=AIRIndore tvg-logo=Logo tvg-name=AIRIndore tvg-language=Hindi tvg-country=India group-title=air, AIRIndore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
+#EXTINF:-1 tvg-id=RainbowDelhi tvg-logo=Logo tvg-name=RainbowDelhi tvg-language=Hindi tvg-country=India group-title=air, RainbowDelhi
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+#EXTINF:-1 tvg-id=VividhBharti tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VividhBharti tvg-language=Hindi tvg-country=India group-title=air, VividhBharti
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+#EXTINF:-1 tvg-id=VBS1 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS1 tvg-language=Hindi tvg-country=India group-title=air, VBS1
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
+#EXTINF:-1 tvg-id=VBS2 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS2 tvg-language=Hindi tvg-country=India group-title=air, VBS2
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio01164kbps59858568.aac
+#EXTINF:-1 tvg-id=VBS3 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS3 tvg-language=Hindi tvg-country=India group-title=air, VBS3
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio23864kbps19374_53320.aac
+#EXTINF:-1 tvg-id=VBS4 tvg-logo=https://liveradios.in/wp-content/uploads/vividhbharathi.jpg tvg-name=VBS4 tvg-language=Hindi tvg-country=India group-title=air, VBS4
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
