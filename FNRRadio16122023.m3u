@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="7" tvg-name="AIR Vividh Bharti" tvg-logo="" group-title="Indian Radio",AIR Vividh Bharti
+#EXTINF:-1 tvg-id="7" tvg-name="AIR Vividh Bharti" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/12/Vividh-Bharti-Online.jpg" group-title="Indian Radio",AIR Vividh Bharti
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="AlJazeera English Audio" tvg-logo="" group-title="International Radio",AlJazeera English Audio
